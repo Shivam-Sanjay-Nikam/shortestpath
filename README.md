@@ -22,7 +22,7 @@ Our Dijkstra's Algorithm Visualizer stands out as an essential tool for anyone e
 
 Join us on this enlightening journey into the realm of Dijkstra's algorithm. Explore, learn, and master the art of finding the shortest path with elegance and efficiency.
 
-![Dijkstra's Algorithm Visualizer Screenshot](https://github.com/YourUsername/Dijkstra_Algorithm_Visualizer/blob/main/Screenshot.png)
+![Dijkstra's Algorithm Visualizer Screenshot](https://github.com/Shivam-Sanjay-Nikam/shortestpath/blob/main/Screenshot%202023-09-09%20at%2010.50.18%20AM.png)
 
 ### Watch the Dijkstra's Algorithm Visualizer in Action
 
